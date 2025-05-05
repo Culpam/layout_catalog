@@ -14,13 +14,13 @@
     }
   }
 
-  @media (min-width: 768) {
+  @media (min-width: 768px) {
     & {
       --column-count: 3;
     }
   }
 
-  @media (min-width: 1024) {
+  @media (min-width: 1024px) {
     & {
       --column-count: 4;
     }
